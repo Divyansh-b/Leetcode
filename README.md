@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Divyansh-b/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Divyansh-b/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2502-sort-the-people](https://github.com/Divyansh-b/Leetcode/tree/master/2502-sort-the-people) |
 ## Stack
 |  |
