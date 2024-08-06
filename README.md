@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Divyansh-b/Leetcode/tree/master/0141-linked-list-cycle) |
 | [2502-sort-the-people](https://github.com/Divyansh-b/Leetcode/tree/master/2502-sort-the-people) |
 ## Sorting
 |  |
@@ -35,7 +36,12 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Divyansh-b/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Divyansh-b/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Divyansh-b/Leetcode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Divyansh-b/Leetcode/tree/master/0443-string-compression) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Divyansh-b/Leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
