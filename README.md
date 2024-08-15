@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Divyansh-b/Leetcode/tree/master/0204-count-primes) |
 | [2502-sort-the-people](https://github.com/Divyansh-b/Leetcode/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
@@ -44,4 +45,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Divyansh-b/Leetcode/tree/master/0141-linked-list-cycle) |
+## Math
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Divyansh-b/Leetcode/tree/master/0204-count-primes) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Divyansh-b/Leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Divyansh-b/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
