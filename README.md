@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/Divyansh-b/Leetcode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Divyansh-b/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Divyansh-b/Leetcode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Divyansh-b/Leetcode/tree/master/0443-string-compression) |
