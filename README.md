@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/Divyansh-b/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0169-majority-element](https://github.com/Divyansh-b/Leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Divyansh-b/Leetcode/tree/master/0204-count-primes) |
+| [0485-max-consecutive-ones](https://github.com/Divyansh-b/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [2502-sort-the-people](https://github.com/Divyansh-b/Leetcode/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
