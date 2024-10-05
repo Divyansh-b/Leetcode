@@ -31,12 +31,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/Divyansh-b/Leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Divyansh-b/Leetcode/tree/master/0204-count-primes) |
 | [0485-max-consecutive-ones](https://github.com/Divyansh-b/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Divyansh-b/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2502-sort-the-people](https://github.com/Divyansh-b/Leetcode/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Divyansh-b/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Divyansh-b/Leetcode/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/Divyansh-b/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2502-sort-the-people](https://github.com/Divyansh-b/Leetcode/tree/master/2502-sort-the-people) |
 ## Sorting
 |  |
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Divyansh-b/Leetcode/tree/master/0022-generate-parentheses) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Divyansh-b/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
