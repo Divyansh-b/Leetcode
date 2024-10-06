@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/Divyansh-b/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0169-majority-element](https://github.com/Divyansh-b/Leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Divyansh-b/Leetcode/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/Divyansh-b/Leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Divyansh-b/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Divyansh-b/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2502-sort-the-people](https://github.com/Divyansh-b/Leetcode/tree/master/2502-sort-the-people) |
@@ -38,12 +39,14 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Divyansh-b/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Divyansh-b/Leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Divyansh-b/Leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Divyansh-b/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2502-sort-the-people](https://github.com/Divyansh-b/Leetcode/tree/master/2502-sort-the-people) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Divyansh-b/Leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Divyansh-b/Leetcode/tree/master/0268-missing-number) |
 | [2502-sort-the-people](https://github.com/Divyansh-b/Leetcode/tree/master/2502-sort-the-people) |
 ## Two Pointers
 |  |
@@ -61,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Divyansh-b/Leetcode/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/Divyansh-b/Leetcode/tree/master/0268-missing-number) |
 ## Enumeration
 |  |
 | ------- |
@@ -83,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Divyansh-b/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0268-missing-number](https://github.com/Divyansh-b/Leetcode/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
@@ -99,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Divyansh-b/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Divyansh-b/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
