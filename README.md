@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/Divyansh-b/Leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Divyansh-b/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Divyansh-b/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0792-binary-search](https://github.com/Divyansh-b/Leetcode/tree/master/0792-binary-search) |
 | [2502-sort-the-people](https://github.com/Divyansh-b/Leetcode/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Divyansh-b/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/Divyansh-b/Leetcode/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/Divyansh-b/Leetcode/tree/master/0792-binary-search) |
 ## Matrix
 |  |
 | ------- |
