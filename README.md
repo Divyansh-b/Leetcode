@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Divyansh-b/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Divyansh-b/Leetcode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/Divyansh-b/Leetcode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Divyansh-b/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Divyansh-b/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/Divyansh-b/Leetcode/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/Divyansh-b/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Divyansh-b/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Divyansh-b/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Divyansh-b/Leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Divyansh-b/Leetcode/tree/master/0053-maximum-subarray) |
 ## Binary Search
