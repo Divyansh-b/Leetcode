@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Divyansh-b/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Divyansh-b/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/Divyansh-b/Leetcode/tree/master/3447-clear-digits) |
 ## Greedy
 |  |
@@ -125,5 +126,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Divyansh-b/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/Divyansh-b/Leetcode/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
