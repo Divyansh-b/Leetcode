@@ -69,10 +69,12 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Divyansh-b/Leetcode/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/Divyansh-b/Leetcode/tree/master/0141-linked-list-cycle) |
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Divyansh-b/Leetcode/tree/master/0002-add-two-numbers) |
 | [0204-count-primes](https://github.com/Divyansh-b/Leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Divyansh-b/Leetcode/tree/master/0268-missing-number) |
 ## Enumeration
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Divyansh-b/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/Divyansh-b/Leetcode/tree/master/3447-clear-digits) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Divyansh-b/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
