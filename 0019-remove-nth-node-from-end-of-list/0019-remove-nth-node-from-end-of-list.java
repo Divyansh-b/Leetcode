@@ -9,32 +9,23 @@
  * }
  */
 
-
- // Brute Force
+// Brute Force
 
 class Solution {
     public ListNode removeNthFromEnd(ListNode head, int n) {
 
-        ListNode temp = head;
-        ListNode temp2 = head;
-        int c = 0;
-        while (temp != null) {
-            c++;
-            temp = temp.next;
+        ListNode fast = head;
+        for (int i = 0; i < n; i++) {
+            fast = fast.next;
         }
-        if (c == n) {
-            ListNode newNode = head.next;
-            return newNode;
+        if (fast == null)
+            return head.next;
+        ListNode slow = head;
+        while (fast.next != null) {
+            fast = fast.next;
+            slow = slow.next;
         }
-        int res = c - n;
-        while (temp2 != null) {
-            res--;
-            if (res == 0)
-                break;
-            temp2 = temp2.next;
-        }
-        temp2.next = temp2.next.next;
-
+        slow.next = slow.next.next;
         return head;
     }
 }
