@@ -13,10 +13,7 @@ class Solution {
             }
 
         }
-        if(c == 3){
-            return true;
-        }
-        else
+        
         return false;
     }
 }
