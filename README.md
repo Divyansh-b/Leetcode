@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Divyansh-b/Leetcode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/Divyansh-b/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Divyansh-b/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Divyansh-b/Leetcode/tree/master/0053-maximum-subarray) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Divyansh-b/Leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Divyansh-b/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Divyansh-b/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Divyansh-b/Leetcode/tree/master/0169-majority-element) |
