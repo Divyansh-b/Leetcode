@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2215-finding-3-digit-even-numbers](https://github.com/Divyansh-b/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Divyansh-b/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2502-sort-the-people](https://github.com/Divyansh-b/Leetcode/tree/master/2502-sort-the-people) |
+| [3321-type-of-triangle](https://github.com/Divyansh-b/Leetcode/tree/master/3321-type-of-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/Divyansh-b/Leetcode/tree/master/0268-missing-number) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Divyansh-b/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2502-sort-the-people](https://github.com/Divyansh-b/Leetcode/tree/master/2502-sort-the-people) |
+| [3321-type-of-triangle](https://github.com/Divyansh-b/Leetcode/tree/master/3321-type-of-triangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/Divyansh-b/Leetcode/tree/master/0002-add-two-numbers) |
 | [0204-count-primes](https://github.com/Divyansh-b/Leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Divyansh-b/Leetcode/tree/master/0268-missing-number) |
+| [3321-type-of-triangle](https://github.com/Divyansh-b/Leetcode/tree/master/3321-type-of-triangle) |
 ## Enumeration
 |  |
 | ------- |
