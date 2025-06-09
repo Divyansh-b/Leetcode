@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/Divyansh-b/Leetcode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/Divyansh-b/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Divyansh-b/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0048-rotate-image](https://github.com/Divyansh-b/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Divyansh-b/Leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Divyansh-b/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Divyansh-b/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Divyansh-b/Leetcode/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/Divyansh-b/Leetcode/tree/master/0048-rotate-image) |
 | [0204-count-primes](https://github.com/Divyansh-b/Leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Divyansh-b/Leetcode/tree/master/0268-missing-number) |
 | [3321-type-of-triangle](https://github.com/Divyansh-b/Leetcode/tree/master/3321-type-of-triangle) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Divyansh-b/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Divyansh-b/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Divyansh-b/Leetcode/tree/master/0074-search-a-2d-matrix) |
 ## Counting
