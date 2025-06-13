@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/Divyansh-b/Leetcode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/Divyansh-b/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Divyansh-b/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/Divyansh-b/Leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Divyansh-b/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Divyansh-b/Leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Divyansh-b/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Divyansh-b/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/Divyansh-b/Leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Divyansh-b/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Divyansh-b/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Divyansh-b/Leetcode/tree/master/0268-missing-number) |
